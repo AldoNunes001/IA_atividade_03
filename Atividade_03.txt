@@ -1,2 +1,2 @@
-Aplicativo: https://triagem-covid.streamlit.app/
-Código: https://github.com/AldoNunes001/IA_atividade_02/
+Aplicativo: https://previsao-engajamento.streamlit.app
+Código: https://github.com/AldoNunes001/IA_atividade_03/

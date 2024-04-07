@@ -45,7 +45,7 @@ X = pd.DataFrame({
 })
 
 if 'linear_regression_model' not in st.session_state:
-    st.session_state['linear_regression_model'] = joblib.load("./linear_regression_le.pkl")
+    st.session_state['linear_regression_model'] = joblib.load("./linear_regression.pkl")
 
 selected_model = st.session_state['linear_regression_model']
 
